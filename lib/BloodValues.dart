@@ -82,7 +82,7 @@ class _BloodValuesState extends State<BloodValues> {
                     ),
                     color: Color(0xFF978092),
                     child:   ListTile(
-                      title: Text("Vitamin D",
+                      title: Text("Vitamin Dd",
                         style: TextStyle(
                           color: Colors.white,
 
