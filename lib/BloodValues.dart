@@ -108,7 +108,7 @@ class _BloodValuesState extends State<BloodValues> {
                           color: Colors.white,
 
                         ),
-                      ),subtitle: Text("155s",
+                      ),subtitle: Text("155s2",
                       style: TextStyle(
                         color: Colors.white,
                       ),),
